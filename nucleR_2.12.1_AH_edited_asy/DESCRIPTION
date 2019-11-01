@@ -1,0 +1,27 @@
+Package: nucleR
+Type: Package
+Title: Nucleosome positioning package for R
+Version: 2.12.1
+Date: 2018-01-22
+Author: Oscar Flores, Ricard Illa
+Maintainer: Ricard Illa <r.illa.pujagut@gmail.com>
+Description: Nucleosome positioning for Tiling Arrays and NGS experiments.
+License: LGPL (>= 3)
+Depends: methods
+Imports: Biobase, BiocGenerics, Biostrings, GenomeInfoDb,
+        GenomicRanges, IRanges, Rsamtools, S4Vectors, ShortRead, dplyr,
+        ggplot2, magrittr, parallel, stats, utils
+Suggests: Starr, BiocStyle, knitr, rmarkdown, testthat
+LazyLoad: yes
+biocViews: NucleosomePositioning, Coverage, ChIPSeq, Microarray,
+        Sequencing, Genetics, QualityControl, DataImport
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
+Roxygen: list(markdown = TRUE)
+git_url: https://git.bioconductor.org/packages/nucleR
+git_branch: RELEASE_3_7
+git_last_commit: 8357444
+git_last_commit_date: 2018-07-05
+Date/Publication: 2018-07-05
+NeedsCompilation: no
+Packaged: 2018-07-05 23:22:25 UTC; biocbuild
