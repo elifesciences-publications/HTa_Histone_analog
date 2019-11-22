@@ -1,3 +1,6 @@
+This code is associated with the paper from Hocher et al., "The DNA-binding protein HTa from Thermoplasma acidophilum is an archaeal histone analog". eLife, 2019. http://dx.doi.org/10.7554/eLife.52542
+
+
 #Antoine Hocher, Friday 1 Novembre 2019, London, UK | MRC, London School of Medical Science 
 #####################################################
 #Scripts associated to Hocher et al. 2019, The DNA-binding protein HTa from Thermoplasma acidophilum is an archaeal histone analog
